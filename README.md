@@ -156,7 +156,7 @@ me = MasudHasan()
 
 </p>
 
-> ⚠️ Note: the Snake animation only appears once you set up the **GitHub Actions workflow** for it in a special repo named exactly `epicmasud` (same as your username). Ask me if you want the workflow file to enable this!
+
 
 ---
 
