@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Masud Hasan</h1>
 <h3 align="center">🎓 Data Science Student | 🐍 Python Learner | 🤖 Future AI & ML Engineer</h3>
 
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
+<img src="https://komarev.com/ghpvc/?username=epicmasud&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/epicmasud?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/epicmasud?label=Stars&style=social" />
 </p>
 
 ---
@@ -110,9 +110,9 @@ me = MasudHasan()
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=epicmasud&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicmasud&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +122,7 @@ me = MasudHasan()
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=epicmasud&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,7 +132,7 @@ me = MasudHasan()
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=epicmasud&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -142,7 +142,7 @@ me = MasudHasan()
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=epicmasud&theme=tokyo-night"/>
 
 </p>
 
@@ -152,9 +152,11 @@ me = MasudHasan()
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/epicmasud/epicmasud/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
+> ⚠️ Note: the Snake animation only appears once you set up the **GitHub Actions workflow** for it in a special repo named exactly `epicmasud` (same as your username). Ask me if you want the workflow file to enable this!
 
 ---
 
@@ -203,15 +205,15 @@ while(alive){
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox"/>
 </a>
 
